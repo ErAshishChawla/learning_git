@@ -1,1 +1,1 @@
-This is annotated tag   
+This is lightweighted tag   
